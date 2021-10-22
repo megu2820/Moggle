@@ -3,7 +3,7 @@
 It uses React, Taliwind CSS, RapidAPI (Google Search API) and some prominent react pacakages. THe app can be used in both light and dark mode. It is completeley mobile responsive.
 
 See it in Action!! 
-Deployment Link - https://moggle-megu-community.netlify.app/search
+Deployment Link - https://moggle-megu-community.netlify.app
 
 Following are the screenshots of desktop and mobile view
 
