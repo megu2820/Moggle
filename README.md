@@ -1,3 +1,18 @@
+# Moggle 🔎 - A google search Clone 
+
+It uses React, Taliwind CSS, RapidAPI (Google Search API) and some prominent react pacakages. THe app can be used in both light and dark mode. It is completeley mobile responsive.
+
+See it in Action!! 
+Deployment Link - https://moggle-megu-community.netlify.app/search
+
+Following are the screenshots of desktop and mobile view
+
+![Screenshot (41)](https://user-images.githubusercontent.com/66476812/138438569-baf1f5ae-041f-4d86-99fe-2828d3a14d40.png)
+
+
+![Screenshot (43)](https://user-images.githubusercontent.com/66476812/138438664-477d9d0b-064b-432f-a097-add1c77f0a1e.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
