@@ -5,6 +5,9 @@ It uses React, Taliwind CSS, RapidAPI (Google Search API) and some prominent rea
 See it in Action!! 
 Deployment Link - https://moggle-megu-community.netlify.app
 
+**Updates**
+**Added Voice Search to the application 🔊***
+
 Following are the screenshots of desktop and mobile view
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/66476812/138438569-baf1f5ae-041f-4d86-99fe-2828d3a14d40.png)
